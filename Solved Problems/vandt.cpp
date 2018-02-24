@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main(){
+int main5(){
     string s;
     int t;
     int cnta=0,cntb=0,cka=0,ckb=0,dots=0;
